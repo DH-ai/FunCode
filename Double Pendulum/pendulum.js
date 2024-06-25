@@ -1,6 +1,6 @@
 let r1 = 150;
 let r2 = 100;
-let m1 = 30;
+let m1 = 10;
 let m2 = 10;
 let a1 =Math.PI/2;
 let a2 = Math.PI/4;
